@@ -1,0 +1,5 @@
+employerName	designation	availability	location	postedDate	experience	jobDescription	skillSet	replyRate	ratePerHour	languages
+Verizon	Specialist	FullTime	Chennai	2018-Oct-04	5~6	Test	Java~Spring~Hibernate	70	30	English
+RiskSense	Specialist	PartTime	Hyderabad	2018-Oct-05	2~5	Test	Java~Kafka	65	34	English
+ENBD	Specialist	FullTime	Bangalore	2018-Oct-03	6~10	Test	Hibernate~Mongo	34	60	English
+Citi	Specialist	PartTime	Hyderabad	2018-Oct-02	5~8	Test	Spring	50	23	English
